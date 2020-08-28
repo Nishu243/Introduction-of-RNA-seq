@@ -9,3 +9,4 @@ nice explanation of RNA seq: https://www.youtube.com/watch?v=tlf6wYJrwKY
 6. False Discovery rates
 Differential gene expression
 Linear models
+# https://www.biostars.org/p/174376/
